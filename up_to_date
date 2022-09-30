@@ -1,0 +1,7 @@
+
+git switch update_script
+git fetch origin
+git pull origin master
+git add .
+git push origin master
+git commit -a -m "How to be up to date in git"
