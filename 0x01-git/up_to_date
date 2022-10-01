@@ -1,6 +1,1 @@
-git switch update_script
-git fetch origin
-git pull origin master
-git add .
-git push origin update_script
-git commit -a -m "message"
+git pull
